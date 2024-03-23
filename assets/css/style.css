@@ -608,7 +608,7 @@ hr {
     font-weight: 500;
   }
   .st-nav .st-nav-list > li > a.active {
-    color: #fec544;
+    color: #7dfe44;
   }
   .st-nav .sp-phone {
     display: -webkit-box;
@@ -634,7 +634,7 @@ hr {
   }
   .st-nav .sp-phone .sp-phone-no {
     padding-left: 15px;
-    color: #fec544;
+    color: #7dfe44;
   }
   .st-munu-toggle,
   .st-munu-dropdown-toggle {
@@ -975,7 +975,7 @@ hr {
   margin-top: -6px;
   margin-bottom: 10px;
   font-weight: 300;
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-social-group {
@@ -1026,7 +1026,7 @@ hr {
 }
 
 .st-hero.st-style2 h1 span {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-hero.st-style2 p {
@@ -1364,7 +1364,7 @@ canvas {
 }
 
 .st-btn.st-style1.st-color1 {
-  background-color: #fec544;
+  background-color: #7dfe44;
   color: #070d1b;
 }
 
@@ -1390,12 +1390,12 @@ canvas {
 
 .st-btn.st-style2.st-color1 {
   background-color: transparent;
-  border-color: #fec544;
-  color: #fec544;
+  border-color: #7dfe44;
+  color: #7dfe44;
 }
 
 .st-btn.st-style2.st-color1:hover {
-  background-color: #fec544;
+  background-color: #7dfe44;
   color: #070d1b;
 }
 
@@ -1439,7 +1439,7 @@ canvas {
   font-size: 24px;
   font-weight: 500;
   text-transform: uppercase;
-  color: #fec544;
+  color: #7dfe44;
   position: relative;
   z-index: 10;
   letter-spacing: 1px;
@@ -1460,7 +1460,7 @@ canvas {
 .st-section-heading.st-style1 .st-section-heading-title::after {
   content: "";
   position: absolute;
-  background-color: #fec544;
+  background-color: #7dfe44;
   width: 70px;
   height: 2px;
   bottom: -16px;
@@ -1511,7 +1511,7 @@ canvas {
 .st-text-block.st-style1 .st-text-block-subtitle {
   font-size: 24px;
   font-weight: 300;
-  color: #fec544;
+  color: #7dfe44;
   margin-bottom: 18px;
 }
 
@@ -1561,15 +1561,15 @@ canvas {
 }
 
 .st-iconbox.st-style1:hover .st-iconbox-icon {
-  border: 0.5px solid #fec544;
+  border: 0.5px solid #7dfe44;
 }
 
 .st-iconbox.st-style1:hover .st-iconbox-icon svg {
-  fill: #fec544;
+  fill: #7dfe44;
 }
 
 .st-iconbox.st-style1:hover .st-iconbox-title {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-iconbox.st-style1 .st-iconbox-icon {
@@ -1653,7 +1653,7 @@ canvas {
 }
 
 .st-progressbar-percentage {
-  color: #fec544;
+  color: #7dfe44;
   font-weight: 400;
 }
 
@@ -1664,7 +1664,7 @@ canvas {
 }
 
 .st-progressbar-in {
-  background-color: #fec544;
+  background-color: #7dfe44;
   height: 2px;
 }
 
@@ -1713,13 +1713,13 @@ canvas {
 }
 
 .st-resume-timeline:hover::before {
-  background-color: #fec544;
+  background-color: #7dfe44;
 }
 
 .st-resume-timeline .st-resume-timeline-title {
   font-size: 24px;
   font-weight: 400;
-  color: #fec544;
+  color: #7dfe44;
   margin-top: -7px;
   margin-bottom: 8px;
 }
@@ -1828,7 +1828,7 @@ canvas {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: #fec544;
+  background: #7dfe44;
   color: #151b29;
   font-size: 26px;
   opacity: .8;
@@ -2058,15 +2058,15 @@ canvas {
 24. Testimonial
 ----------------------------------------------------------------*/
 .st-testimonial.st-style1:hover .st-testimonial-name {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-testimonial.st-style1:hover .st-testimonial-text {
-  border-color: #fec544;
+  border-color: #7dfe44;
 }
 
 .st-testimonial.st-style1:hover .st-testimonial-text::after {
-  border-color: #fec544;
+  border-color: #7dfe44;
 }
 
 .st-testimonial.st-style1 .st-testimonial-text {
@@ -2173,7 +2173,7 @@ canvas {
 
 .st-post-single.st-style1 .st-post-date .st-post-author,
 .st-post-single.st-style1 .st-post-date .st-post-publish-date {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-post-single.st-style1 .st-post-date .st-post-author:hover {
@@ -2188,7 +2188,7 @@ canvas {
 }
 
 .st-post-single.st-style1 .st-post-title:hover {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 /*--------------------------------------------------------------
@@ -2321,7 +2321,7 @@ canvas {
 }
 
 .st-widget-list a:hover {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-tagcloud {
@@ -2340,8 +2340,8 @@ canvas {
 
 .st-tagcloud .st-tag:hover {
   color: #fff;
-  background-color: #fec544;
-  border-color: #fec544;
+  background-color: #7dfe44;
+  border-color: #7dfe44;
 }
 
 .st-sidebar-social-btn {
@@ -2390,8 +2390,8 @@ canvas {
   padding: 30px 40px 27px;
   font-size: 24px;
   line-height: 1.6em;
-  border-left: 5px solid #fec544;
-  color: #fec544;
+  border-left: 5px solid #7dfe44;
+  color: #7dfe44;
   border-radius: 7px;
   font-weight: 400;
   margin: 20px 0;
@@ -2407,7 +2407,7 @@ canvas {
 }
 
 .st-post-details.st-style1 blockquote small span {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-post-details.st-style1 .st-post-label {
@@ -2473,7 +2473,7 @@ canvas {
 }
 
 .st-post-label a:hover {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-post-tage-list {
@@ -2495,7 +2495,7 @@ canvas {
 }
 
 .st-post-tage-list li a:hover {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-post-tages,
@@ -2530,7 +2530,7 @@ canvas {
 }
 
 .st-post-share-btn-list a:hover {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-post-btn-gropu {
@@ -2667,7 +2667,7 @@ canvas {
 .comment-author .nm,
 .comment-author .nm a {
   font-weight: 500;
-  color: #fec544;
+  color: #7dfe44;
   font-size: 14px;
   display: block;
 }
@@ -2679,7 +2679,7 @@ canvas {
 .comment-author .nm a:hover,
 .comment-author .nm:hover,
 .comment-metadata a:hover {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .comment-metadata a {
@@ -2702,7 +2702,7 @@ canvas {
 
 .comment-reply-link {
   font-size: 14px;
-  color: #fec544;
+  color: #7dfe44;
   position: relative;
 }
 
@@ -2790,7 +2790,7 @@ canvas {
 .comment-form textarea:focus,
 .comment-form input:focus {
   outline: none;
-  border-color: #fec544;
+  border-color: #7dfe44;
 }
 
 .post-navigation {
@@ -2885,7 +2885,7 @@ canvas {
 
 .st-form-field input:focus,
 .st-form-field textarea:focus {
-  border-color: #fec544;
+  border-color: #7dfe44;
   outline: 0;
 }
 
@@ -2909,7 +2909,7 @@ canvas {
 }
 
 .st-single-contact-info:hover i {
-  border-color: #fec544;
+  border-color: #7dfe44;
 }
 
 .st-single-contact-info i {
@@ -2945,7 +2945,7 @@ canvas {
 }
 
 .st-single-info-details a:hover {
-  color: #fec544;
+  color: #7dfe44;
 }
 
 .st-single-info-details a:last-child {
